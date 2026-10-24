@@ -14,6 +14,8 @@
 
 下载 `第二课堂.apk` 安装；同签名旧版可覆盖升级，请勿先卸载或清除数据。
 
+[下载中文名安装包](https://github.com/lwh041009/sdust-second-classroom/raw/refs/heads/main/%E7%AC%AC%E4%BA%8C%E8%AF%BE%E5%A0%82.apk)。GitHub Release 会替换纯中文附件名，因此本页附件使用 `second-classroom.apk`，显示标签为“第二课堂.apk”，与仓库中文名安装包内容完全相同。
+
 此包为 Debug 签名测试版，不是学校官方应用。本地88项合成测试通过、Android Lint零错误零警告，但未完成真机和真实学校全流程验收。
 
 服务器预约仍关闭；本地预约受手机后台、网络和权限影响，不保证报名成功。成果学分原生分类明细未完成。学校规则和最终记录为准，不提供自动签到。

@@ -6,8 +6,10 @@
 
 当前版本：**1.0.9**（versionCode 10），支持 **Android 6.0 及以上**。
 
-- [下载第二课堂.apk](https://github.com/lwh041009/sdust-second-classroom/releases/latest/download/%E7%AC%AC%E4%BA%8C%E8%AF%BE%E5%A0%82.apk)
+- [下载第二课堂.apk](https://github.com/lwh041009/sdust-second-classroom/raw/refs/heads/main/%E7%AC%AC%E4%BA%8C%E8%AF%BE%E5%A0%82.apk)
 - [查看版本发布与校验文件](https://github.com/lwh041009/sdust-second-classroom/releases/latest)
+
+仓库文件保留中文名 `第二课堂.apk`。GitHub Release 会替换纯中文附件名，因此 Release 同包附件使用 `second-classroom.apk`，显示标签为“第二课堂.apk”；两者内容及 SHA-256 完全相同。
 
 已安装同签名旧版的用户可直接覆盖安装，保留本机账号和任务，不要先卸载或清除数据。当前为 Android Debug 签名测试包，不是学校官方发布版本。
 
